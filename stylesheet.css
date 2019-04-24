@@ -1,6 +1,7 @@
 div:hover {
     display:inline;
-    background:yellow;
-    color:blue;
+    background:#ff8000;
+    color:white;
     font-weight:900;
+    
 }
